@@ -1,5 +1,5 @@
 # InternPe
-# Tic Tac Toe Game Implementation in Python with Tkinter
+# Task-1: Tic Tac Toe Game Implementation in Python with Tkinter
 
 ## Overview
 This project is a simple implementation of the classic Tic Tac Toe game using Python and the Tkinter library for the graphical user interface. The game supports a two-player mode and provides a user-friendly GUI to make moves and display game results.
